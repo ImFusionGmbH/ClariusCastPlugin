@@ -1,4 +1,4 @@
-__# Clarius Cast Plugin
+# Clarius Cast Plugin
 
 This plugin integrates Clarius probes into the [ImFusion Suite](imfusion.com) using the [Clarius Cast API](https://github.com/clariusdev/cast). 
 
